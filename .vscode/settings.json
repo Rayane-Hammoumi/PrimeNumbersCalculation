@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "header.h": "c"
+    },
+    "codesnap.shutterAction": "copy"
+}
